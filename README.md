@@ -3,7 +3,7 @@
 :1st_place_medal: Tech Lead at [DECATHLON](https://www.decathlon.com.br)<br/>
 :computer: Marketplacer/Ecommerce<br/>
 :credit_card: Epayments<br/>
-:man_technologist: FIAP Student - [Cloud Engineering & Architecture](https://www.fiap.com.br/mba/mba-em-cloud-engineering-architecture/)
+:man_technologist: FIAP Student - [MBA Cloud Engineering & Architecture](https://www.fiap.com.br/mba/mba-em-cloud-engineering-architecture/)
 
 
 ## Things I code with 💻
