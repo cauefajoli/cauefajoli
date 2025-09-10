@@ -1,15 +1,17 @@
 ### Hi, I'm Cauê Fajoli 👋
 
-:1st_place_medal: Tech Lead at [DECATHLON](https://www.decathlon.com.br)<br/>
-:computer: Marketplacer/Ecommerce<br/>
+:1st_place_medal: Tech Lead at [BUILD](https://www.digitalbuild.com.br)<br/>
+:computer: Ecommerce / Marketplace Specialist <br/>
 :credit_card: Epayments<br/>
-:man_technologist: FIAP Student - [MBA Cloud Engineering & Architecture](https://www.fiap.com.br/mba/mba-em-cloud-engineering-architecture/)
+:man_technologist: MBA Cloud Engineering & Architecture
 
 
 ## Things I code with 💻
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="VTEX" src="https://img.shields.io/badge/-VTEX-CC6699?style=flat-square&logo=vtex&logoColor=white" />
+  <img alt="SHOPIFY" src="https://img.shields.io/badge/-SHOPIFY-608e3e?style=flat-square&logo=shopify&logoColor=white" />
+  <br/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=javascript&logoColor=white" />
   <!--<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" />-->
   <!--<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />-->
   <!--<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />-->
